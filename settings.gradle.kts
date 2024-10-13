@@ -1,0 +1,1 @@
+rootProject.name = "cataloge-service"

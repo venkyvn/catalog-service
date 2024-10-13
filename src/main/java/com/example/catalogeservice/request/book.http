@@ -1,0 +1,17 @@
+### post
+
+POST localhost:8080/books
+Content-Type: application/json
+
+{
+  "isbn": "1",
+  "author": "vuong tran",
+  "title": "book title",
+  "price": 9.9
+}
+
+###
+GET localhost:8080/books
+
+###
+GET localhost:8080/books/2
